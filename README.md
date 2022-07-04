@@ -1,6 +1,6 @@
 # README
 ## DEPENDENCIES
-Python 3.10 or higher
+Python 3.10 or higher </br >
 Redis Server v=6.0.16
 mysql  Ver 15.1
 
